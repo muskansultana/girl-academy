@@ -1,2 +1,4 @@
 # girl-academy
-to boost women empowerment
+to boost women empowerment 
+prototype using figma
+
