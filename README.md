@@ -7,5 +7,6 @@ prototype using figma
 ![3](https://github.com/muskansultana/girl-academy/assets/89348626/e357a51e-2927-48e7-bf3c-4be7d817fac9)
 ![8](https://github.com/muskansultana/girl-academy/assets/89348626/34bda398-8828-43bd-bed9-97f59fe0cd4a)
 ![6](https://github.com/muskansultana/girl-academy/assets/89348626/af28e6e6-e1a0-477c-9f28-1e913b7bb6d2)
+![9](https://github.com/muskansultana/girl-academy/assets/89348626/469baacf-dc94-43a7-9e7b-9decec7ff01f)
 
 
